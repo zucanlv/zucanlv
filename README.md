@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zucan Lv, a student majoring in cs @USTC (University of Science and Technology of China)
+- 👋 Hi, I’m Zucan Lv, a student majoring in computer science @USTC (University of Science and Technology of China)
 
 <!---
 - 👀 I’m interested in ...
