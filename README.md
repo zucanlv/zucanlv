@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Zucan Lv**
-- 🏄‍♂️ I am a senior undergraduate majoring in computer science @USTC (University of Science and Technology of China)
+- 🏄‍♂️ I am a junior undergraduate majoring in computer science @USTC (University of Science and Technology of China)
 - 👀 I’m interested in:
   - 🤖 All interesting things about AI Agents(From Coding to Embodied)
   - 🏀 Basketball
