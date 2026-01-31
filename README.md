@@ -3,7 +3,7 @@
 - 👀 I’m interested in:
   - 🤖 All interesting things about AI Agents
     1. ⌨️ Current focus: Coding Agent, Synthetic Data
-    2. 🦾 Further interests: Multimodal/Embodied Agent, Agentic RL
+    2. 🦾 Further interests: Emboied Agent
   - 🏀 Basketball
 - 🌱 Looking for research collaborations & internships (Spring/Summer 2026) | Pursuing PhD opportunities (Fall 2027)
 - 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com)
