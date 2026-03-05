@@ -3,8 +3,8 @@
 - 👀 I’m interested in:
   - 🤖 All interesting things about AI Agents: 💻Coding Agent, 🪄Synthetic Data Agent and 🦾Emboied Agent
   - 🏀 Basketball
-- 🌱 Looking for research collaborations & internships (Spring/Summer 2026) | Pursuing PhD opportunities (Fall 2027)
-- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com) or [zucanlv@mail.ustc.edu.cn](zucanlv@mail.ustc.edu.cn)
+- 🌱 Pursuing PhD opportunities (Fall 2027)
+- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com)
 
 
 <!---
