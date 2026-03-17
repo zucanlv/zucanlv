@@ -4,7 +4,7 @@
   - 🤖 All interesting things about AI Agents: 💻Coding Agent, 🪄Synthetic Data Agent and 🦾Emboied Agent
   - 🏀 Basketball
 - 🌱 Pursuing PhD opportunities (Fall 2027)
-- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com)
+- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com); I'd be glad to talk about anything with you 😊
 
 
 <!---
