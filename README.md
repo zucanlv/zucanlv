@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Zucan Lyu/Lv**
+# 👋 Hi, I’m **Zucan Lyu**
 - 🏄‍♂️ I am a junior undergraduate majoring in computer science @USTC (University of Science and Technology of China)
 - 👀 I’m interested in:
   - 🤖 All interesting things about AI Agents: 🪄Data Synthesis Agent and 🦾Emboied Agent
