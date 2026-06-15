@@ -1,14 +1,13 @@
 # 👋 Hi, I’m **Zucan Lyu/Lv**
 - 🏄‍♂️ I am a junior undergraduate majoring in computer science @USTC (University of Science and Technology of China)
 - 👀 I’m interested in:
-  - 🤖 All interesting things about AI Agents: 🔬Research Agent, 🪄Synthetic Data Agent and 🦾Emboied Agent
+  - 🤖 All interesting things about AI Agents: 🪄Data Synthesis Agent and 🦾Emboied Agent
   - 🏀 Basketball
-- 🌱 Pursuing PhD opportunities (Fall 2027)
-- ❓ Questions I'm thinking about:
+- ❓ Questions I'm thinking about recently:
   - How to augment the research capability of Agents?
-  - How to efficiently synthesize diverse multimodal data for VLM and Embedding model?
-  - How to enhance the capability of Embodied Agent (In simulated environment)?
-- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com); I'd be glad to talk about anything with you 😊
+  - How to efficiently synthesize diverse multimodal data for Embedding model and VLM?
+- 🌱 Pursuing PhD opportunities (Fall 2027)
+- 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com); I'd be glad to talk with you 😊
 
 
 <!---
