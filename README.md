@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Zucan Lyu**
 - 🏄‍♂️ I am an undergraduate majoring in computer science @USTC (University of Science and Technology of China)
 - 👀 I’m interested in Multimodal Intelligence and Agents.
-- 🌱 Pursuing PhD opportunities (Fall 2027)
+- 🌱 Pursuing industry internship opportunities (Spring 2027) and PhD opportunities (Fall 2027)
 - 📫 How to reach me: [zucanlv@gmail.com](zucanlv@gmail.com); I'm always glad to connect and chat!
 
 
